@@ -9,7 +9,6 @@ document.addEventListener("turbolinks:load", function() {
     categories: [
       {
         listLocation: "movies",
-        header: "<strong>Movies</strong>",
       }
     ],
     list: {
