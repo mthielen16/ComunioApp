@@ -1,18 +1,9 @@
 <div class="row">
   <div class="col">
-    <h1>Movies</h1>
-    <% @movies.each do |movie| %>
-      <p><%= link_to movie.name, movie %></p>
-    <% end %>
-  </div>
-
-  <div class="col">
     <h1>Players</h1>
     <% @players.each do |player| %>
         <p><%= link_to player.name, player %></p>
     <% end %>
   </div>
-
-
 </div>
 
