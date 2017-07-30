@@ -1,24 +1,29 @@
 document.addEventListener("turbolinks:load", function() {
-  $input = $("[data-behavior='autocomplete']")
+    $input = $("[data-behavior='autocomplete']")
 
-  var options = {
-    getValue: "name",
-    url: function(phrase) {
-      return "/search.json?q=" + phrase;
-    },
-    categories: [
-      {
-        listLocation: "movies",
-      }
-    ],
-    list: {
-      onChooseEvent: function() {
-        var url = $input.getSelectedItemData().url
-        $input.val("")
-        Turbolinks.visit(url)
-      }
+    var options = {
+        getValue: "name",
+        url: function(phrase) {
+            return "/search.json?q=" + phrase;
+        },
+        categories: [
+            {
+                listLocation: "players",
+                header: "<strong>Players</strong>",
+            },
+            {
+                listLocation: "movies",
+                header: "<strong>Movies</strong>",
+            }
+        ],
+        list: {
+            onChooseEvent: function() {
+                var url = $input.getSelectedItemData().url
+                $input.val("")
+                Turbolinks.visit(url)
+            }
+        }
     }
-  }
 
-  $input.easyAutocomplete(options)
+    $input.easyAutocomplete(options)
 });

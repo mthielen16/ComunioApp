@@ -3,8 +3,8 @@ development:
   encoding: unicode
   database: mt
   pool: 5
-  username: postgres
-  password: postgres
+  username: mt
+  password: 1234
   host: localhost
   port: 5432
 
@@ -16,7 +16,7 @@ production:
   encoding: unicode
   database: mt
   pool: 5
-  username: postgres
-  password: postgres
+  username: mt
+  password: 1234
   host: localhost
   port: 5432

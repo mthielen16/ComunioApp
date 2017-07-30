@@ -7,12 +7,12 @@
       <introspection-schemas>*:main</introspection-schemas>
     </data-source>
     <data-source name="mt@localhost" uuid="0dc87761-7c0b-44bf-8f83-8f19c85ec262">
-      <database-info product="PostgreSQL" version="9.6.3" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+      <database-info product="PostgreSQL" version="9.5.7" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
-      <user-name>postgres</user-name>
+      <user-name>mt</user-name>
       <introspection-schemas>mt:public</introspection-schemas>
     </data-source>
   </component>

@@ -5,3 +5,10 @@ json.movies do
   end
 end
 
+json.players do
+  json.array!(@players) do |player|
+    json.name player.name
+    json.url player_path(player)
+  end
+end
+
