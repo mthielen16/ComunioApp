@@ -8,7 +8,6 @@ class MainController < ApplicationController
     respond_to do |format|
       format.html {}
       format.json {
-        @movies    = @movies.limit(5)
       }
     end
   end
