@@ -1,8 +1,59 @@
-<p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Name:</strong>
-  <%= @player.name %>
-</p>
+<h2><%="Marktwert  #{@player.name}" %></h2>
+<%= high_chart_globals(@chart_globals) %>
 
 
+
+
+
+<div id="wrapper">
+  <div id="first">
+    <table class="table" align="left" style="width:100%">
+      <tbody>
+      <tr style="background-color:#c2c2d6">
+        <td>Name</td>
+        <td><%= @player.name %></td>
+      </tr>
+      <tr>
+        <td>Marktwert</td>
+        <td><%= number_with_delimiter(@value[Date.today.prev_day.to_s],delimiter: " ") %></td>
+      </tr>
+      <tr>
+        <td>Position</td>
+        <td><%= @player.position %></td>
+      </tr>
+      <tr>
+        <td>Verein</td>
+        <td><%= @player.verein %></td>
+      </tr>
+      <tr>
+        <td>Punkte 2016/2017</td>
+        <td><%= @player.punkte %></td>
+      </tr>
+      <tr>
+        <td>Einsätze</td>
+        <td><%= if (@player.punkte/@player.pps).nan? then '0'
+                else if (@player.punkte/@player.pps).to_i >= 34 then '34'
+                     else (@player.punkte/@player.pps).to_i end
+                end %></td>
+      </tr>
+      <tr>
+        <td>Punkte pro Spiel</td>
+        <td><%= if @player.pps == 0 then '0' else @player.pps.round(2) end %></td>
+      </tr>
+      <tr>
+        <td>Punkte pro Millionen</td>
+        <td><%= (@player.punkte/(@value[Date.today.prev_day.to_s].to_f/1000000)).round(2) %></td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div id="second">
+  <table  align="right" style="width:100%">
+    <tr>
+      <td><%= high_chart("TWtotal", @spieler_mw) %></td>
+    </tr>
+  </table>
+  </div>
+</div>

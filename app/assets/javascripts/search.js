@@ -8,17 +8,18 @@ document.addEventListener("turbolinks:load", function() {
         },
         categories: [
             {
-                listLocation: "players",
-                header: "<strong>Players</strong>",
+                listLocation: "players"
             }
         ],
         list: {
+                maxNumberOfElements: 10,
             onChooseEvent: function() {
                 var url = $input.getSelectedItemData().url
                 $input.val("")
                 Turbolinks.visit(url)
             }
-        }
+        },
+        theme: "blue"
     }
 
     $input.easyAutocomplete(options)

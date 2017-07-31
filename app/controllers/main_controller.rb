@@ -7,8 +7,11 @@ class MainController < ApplicationController
     respond_to do |format|
       format.html {}
       format.json {
-        @players   = @players.limit(5)
+        @players   = @players.limit(8)
+
       }
+
+
     end
   end
 end
