@@ -38,3 +38,5 @@ gem 'ransack', '~> 1.8', '>= 1.8.2'
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'autoprefixer-rails'
+
+gem 'httparty', '~> 0.15.6'

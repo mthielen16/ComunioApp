@@ -16,7 +16,7 @@
       </tr>
       <tr>
         <td>Marktwert</td>
-        <td><%= number_with_delimiter(@value[Date.today.prev_day.to_s],delimiter: " ") %></td>
+        <td><%= number_with_delimiter( @value.last["value"],delimiter: " ") %></td>
       </tr>
       <tr>
         <td>Position</td>
@@ -39,15 +39,16 @@
       </tr>
       <tr>
         <td>Punkte pro Spiel</td>
-        <td><%= if @player.pps == 0 then '0' else @player.pps.round(2) end %></td>
+        <td><%= if @player.pps == 0 then 'na' else @player.pps.round(2) end %></td>
       </tr>
       <tr>
         <td>Punkte pro Millionen</td>
-        <td><%= (@player.punkte/(@value[Date.today.prev_day.to_s].to_f/1000000)).round(2) %></td>
+        <td><%= if @player.punkte == 0 then 'na' else @value.last["value"].to_f/1000000  end%></td>
       </tr>
       </tbody>
     </table>
   </div>
+
 
   <div id="second">
   <table  align="right" style="width:100%">
@@ -57,3 +58,5 @@
   </table>
   </div>
 </div>
+
+
