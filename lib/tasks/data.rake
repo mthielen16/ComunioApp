@@ -10,10 +10,16 @@ namespace :data do
 
     puts ""
     puts "########################################################################"
-    puts "################------------JSON PARSE-----------######################"
+    puts "#################------------JSON PARSE-----------######################"
 
     playerkeys =["id","name","position","verein","punkte","pps"]
     keys = ["id","cid","date","value"]
+
+
+    data_yesterday=[]
+    storage=Value.where(date: (Date.today-1).to_s).select(:id, :value).as_json
+    storage.each { |x| data_yesterday.push(x["value"])}
+
 
 
 
@@ -21,25 +27,52 @@ namespace :data do
     #fügt neue spieler newcid array hinzu
     #fügt neue spieler der Tabelle players hinzu
     #fügt Marktwerte der Tabelle values hinzu
-    variable_array.each do |hashes|
-       hashes["data"].each do |nested_arrays|
-         nested_arrays.flatten.values_at(0,1,2,3,4,5,6)
-            if !Player.exists?(id: nested_arrays.flatten[0])
-              Player.create(Hash[playerkeys.zip nested_arrays.flatten.values_at(0,1,2,3,5,6)])
-              Value.create(Hash[keys.zip [Value.maximum(:id)+1,nested_arrays.flatten[0],
-                                        (Date.today).to_s,nested_arrays.flatten[4]]])
-            else
-              Value.create(Hash[keys.zip [Value.maximum(:id)+1,nested_arrays.flatten[0],
-                                        (Date.today).to_s,nested_arrays.flatten[4]]])
 
-       end
+    data_today=[]
+    variable_array.each do |t|
+      t["data"].each do |f|
+        f.flatten.values_at(4).each do |x|
+          data_today.push(x.to_i)
+        end
       end
     end
-  puts ""
-  puts "########################################################################"
-  puts "################------------IMPORT DONE-----------######################"
-  puts "########################################################################"
-  puts ""
+
+
+    if Value.where(date: (Date.today.to_s)).exists?
+      puts "########################################################################"
+      puts "########------Daten vom #{Date.today.to_s} schon vorhanden------########"
+      puts "################------------IMPORT ABBRUCH-----------###################"
+      puts "########################################################################"
+    elsif
+      data_today.sort==data_yesterday.sort
+      puts "########################################################################"
+      puts "##############------Noch keine neuen Daten vorhanden------##############"
+      puts "################------------IMPORT ABBRUCH-----------###################"
+      puts "########################################################################"
+    else
+       variable_array.each do |hashes|
+          hashes["data"].each do |nested_arrays|
+                       if !Player.exists?(id: nested_arrays.flatten[0])
+                            Player.create(Hash[playerkeys.zip nested_arrays.flatten.values_at(0,1,2,3,5,6)])
+                            Value.create(Hash[keys.zip [Value.maximum(:id)+1,nested_arrays.flatten[0],
+                                        (Date.today).to_s,nested_arrays.flatten[4]]])
+                       else
+                            Value.create(Hash[keys.zip [Value.maximum(:id)+1,nested_arrays.flatten[0],
+                                        (Date.today).to_s,nested_arrays.flatten[4]]])
+
+                       end
+           end
+       end
+       puts "########################################################################"
+       puts "#################------------IMPORT DONE-----------#####################"
+       puts "########################################################################"
+       puts ""
+       puts ""
+
+    end
+
+
+
 
 
 
