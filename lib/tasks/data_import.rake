@@ -1,6 +1,8 @@
+# lib/tasks/data_pull.rake
+
 namespace :data do
-  desc "import data from json to database Importer.
-        Use: rake data:import in console"
+  desc 'import data from json to database Importer.
+        Use: rake data:import in console'
   task :import => :environment do
     twhash=JSON.parse HTTParty.get('http://com-analytics.de/ajax/topplayers/keeper?_=1496939417796').response.body
     awhash=JSON.parse HTTParty.get('http://com-analytics.de/ajax/topplayers/defender?_=1496939417797').response.body
@@ -24,7 +26,7 @@ namespace :data do
 
 
     #fasst die jsons zu import_array zusammen: id name position, verein, mw, punkte, pps,
-    #fügt neue spieler newcid array hinzu
+    #fügt neue spieler newid array hinzu
     #fügt neue spieler der Tabelle players hinzu
     #fügt Marktwerte der Tabelle values hinzu
 
