@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170803142716) do
+ActiveRecord::Schema.define(version: 20170820241001) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -24,12 +24,29 @@ ActiveRecord::Schema.define(version: 20170803142716) do
     t.index ["id"], name: "players_cid_uindex", unique: true
   end
 
-  create_table "values", primary_key: "pk", id: :serial, force: :cascade do |t|
-    t.integer "id"
-    t.text "date"
-    t.integer "value"
-    t.index ["pk"], name: "values_pk_uindex", unique: true
+  create_table "saisoninfos", id: :integer, default: nil, force: :cascade do |t|
+    t.integer "cid"
+    t.integer "tore"
+    t.integer "unknown"
+    t.integer "gelb"
+    t.integer "gelbrot"
+    t.integer "rot"
+    t.integer "punkte"
+    t.integer "note"
+    t.integer "min_ein"
+    t.integer "min_aus"
+    t.integer "einsätze"
+    t.text "heimaus"
+    t.integer "date"
+    t.index ["id"], name: "saison_infos_id_uindex", unique: true
   end
 
-  add_foreign_key "values", "players", column: "id", name: "values_players_id_fk"
+  create_table "values", id: :serial, force: :cascade do |t|
+    t.integer "cid"
+    t.text "date"
+    t.integer "value"
+    t.index ["id"], name: "values_pk_uindex", unique: true
+  end
+
+  add_foreign_key "values", "players", column: "cid", name: "values_players_id_fk"
 end

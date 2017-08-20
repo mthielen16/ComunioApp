@@ -1,0 +1,2 @@
+class Saisoninfo < ApplicationRecord
+end

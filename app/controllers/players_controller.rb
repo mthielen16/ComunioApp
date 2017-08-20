@@ -56,7 +56,7 @@ class PlayersController < ApplicationController
     @spieler_mw = LazyHighCharts::HighChart.new('graph') do |f|
       f.chart({defaultSeriesType: "area"})
       f.series(name: "Marktwert von #{@Spielername} 17/18", yAxis: 0, data: @spieler_value, color: "#666699")
-      f.yAxis [{title: {text: "Marktwert in Millionen", margin: 40} }]
+      f.yAxis [{title: {date: "Marktwert in Millionen", margin: 40} }]
       f.legend(enabled: false)
       f.xAxis(categories: @date_array)
 
