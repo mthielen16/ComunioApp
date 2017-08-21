@@ -14,10 +14,10 @@ class PlayersController < ApplicationController
     @saisoninfo    =  Saisoninfo.where(cid: params[:id])
 
 
-    values = @value.to_a
+
     @date_array= []
     @spieler_value = []
-    values.each do |t|
+    @value.to_a.each do |t|
       @spieler_value.push(t.value)
       @date_array.push(t.date)
     end
@@ -33,20 +33,17 @@ class PlayersController < ApplicationController
 
 
     @spieltag_punkte =[]
+
     if @saisoninfo.sum(:einsätze) >= 1
-    @spieltag_punkte.insert(@date_array.index(@saisoninfo.pluck(:date,:punkte)[0][0]),
-                            @saisoninfo.pluck(:date,:punkte)[0][1])
+      @spieltag_punkte.insert(@date_array.index(@saisoninfo.pluck(:date,:punkte)[0][0]),
+                              @saisoninfo.pluck(:date,:punkte)[0][1])
     else
-    @spieltag_punkte  =[]
+      @spieltag_punkte  =[]
     end
 
 
 
-    @spielerdata = []
-    Player.find_by(id: params[:id]).attributes.each do |key, value|
-      @spielerdata.push value
-
-      @chart_globals = LazyHighCharts::HighChartGlobals.new do |f|
+    @chart_globals = LazyHighCharts::HighChartGlobals.new do |f|
         f.global(useUTC: false)
         f.chart(
             backgroundColor: {
@@ -63,14 +60,7 @@ class PlayersController < ApplicationController
         f.lang(thousandsSep: ",")
         f.chart({defaultSeriesType: "area"})
         f.plotOptions(line: {marker: {enabled: false}})
-
       end
-    end
-
-
-
-
-
 
     @spieler_mw = LazyHighCharts::HighChart.new('graph') do |f|
       f.chart({defaultSeriesType: "line"})
@@ -84,8 +74,6 @@ class PlayersController < ApplicationController
               ]
       f.legend(enabled: true)
       f.xAxis(categories: @date_array,minTickInterval: 7)
-
-
     end
 
 
