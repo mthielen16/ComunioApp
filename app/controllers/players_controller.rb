@@ -11,6 +11,8 @@ class PlayersController < ApplicationController
   # GET /players/1.json
   def show
     @value    =  Value.where(cid: params[:id])
+    @saisoninfo    =  Saisoninfo.where(cid: params[:id])
+
 
     values = @value.to_a
     @date_array= []
