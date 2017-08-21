@@ -37,7 +37,7 @@ ActiveRecord::Schema.define(version: 20170820241001) do
     t.integer "min_aus"
     t.integer "einsätze"
     t.text "heimaus"
-    t.integer "date"
+    t.text "date"
     t.index ["id"], name: "saison_infos_id_uindex", unique: true
   end
 

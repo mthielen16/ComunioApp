@@ -23,6 +23,13 @@ class PlayersController < ApplicationController
     end
 
 
+    if @value.count >= 7
+      @seven_day_avg=Indicators::Data.new(@spieler_value.compact).calc(:type=>:sma, :params=>7).output
+      3.times {@seven_day_avg=@seven_day_avg.drop(1).push(nil)}
+    else
+      @seven_day_avg = []
+    end
+
 
     @spielerdata = []
     Player.find_by(id: params[:id]).attributes.each do |key, value|
@@ -43,7 +50,6 @@ class PlayersController < ApplicationController
             plotShadow: true,
             plotBorderWidth: 1)
         f.lang(thousandsSep: ",")
-        f.legend(enabled: false)
         f.chart({defaultSeriesType: "area"})
         f.plotOptions(line: {marker: {enabled: false}})
 
@@ -57,9 +63,10 @@ class PlayersController < ApplicationController
 
     @spieler_mw = LazyHighCharts::HighChart.new('graph') do |f|
       f.chart({defaultSeriesType: "line"})
-      f.series(name: "Marktwert von #{@Spielername} 17/18", yAxis: 0, data: @spieler_value, color: "#666699")
+      f.series(name: "Marktwert", yAxis: 0, data: @spieler_value, color: "#666699")
+      f.series(name: "7-Tage Durchschnitt #{@Spielername}", yAxis: 0, data: @seven_day_avg, color: "#ff1313",enableMouseTracking: false)
       f.yAxis [{title: {date: "Marktwert in Millionen", margin: 40} }]
-      f.legend(enabled: false)
+      f.legend(enabled: true)
       f.xAxis(categories: @date_array)
 
     end
