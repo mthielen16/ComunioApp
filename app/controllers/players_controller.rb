@@ -83,7 +83,7 @@ class PlayersController < ApplicationController
           {:title => {:text => "Punkte"}, :opposite => true}
               ]
       f.legend(enabled: true)
-      f.xAxis(categories: @date_array)
+      f.xAxis(categories: @date_array,minTickInterval: 7)
 
 
     end
