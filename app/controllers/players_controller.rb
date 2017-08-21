@@ -45,7 +45,7 @@ class PlayersController < ApplicationController
         f.lang(thousandsSep: ",")
         f.legend(enabled: false)
         f.chart({defaultSeriesType: "area"})
-        f.plotOptions(area: {marker: {enabled: false}})
+        f.plotOptions(line: {marker: {enabled: false}})
 
       end
     end
@@ -56,7 +56,7 @@ class PlayersController < ApplicationController
 
 
     @spieler_mw = LazyHighCharts::HighChart.new('graph') do |f|
-      f.chart({defaultSeriesType: "area"})
+      f.chart({defaultSeriesType: "line"})
       f.series(name: "Marktwert von #{@Spielername} 17/18", yAxis: 0, data: @spieler_value, color: "#666699")
       f.yAxis [{title: {date: "Marktwert in Millionen", margin: 40} }]
       f.legend(enabled: false)
