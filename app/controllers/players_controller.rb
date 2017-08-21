@@ -31,6 +31,17 @@ class PlayersController < ApplicationController
     end
 
 
+
+    @spieltag_punkte =[]
+    if @saisoninfo.sum(:einsätze) >= 1
+    @spieltag_punkte.insert(@date_array.index(@saisoninfo.pluck(:date,:punkte)[0][0]),
+                            @saisoninfo.pluck(:date,:punkte)[0][1])
+    else
+    @spieltag_punkte  =[]
+    end
+
+
+
     @spielerdata = []
     Player.find_by(id: params[:id]).attributes.each do |key, value|
       @spielerdata.push value
@@ -63,11 +74,17 @@ class PlayersController < ApplicationController
 
     @spieler_mw = LazyHighCharts::HighChart.new('graph') do |f|
       f.chart({defaultSeriesType: "line"})
+      f.title(text: "Marktwert und Punkte")
       f.series(name: "Marktwert", yAxis: 0, data: @spieler_value, color: "#666699")
-      f.series(name: "7-Tage Durchschnitt #{@Spielername}", yAxis: 0, data: @seven_day_avg, color: "#ff1313",enableMouseTracking: false)
-      f.yAxis [{title: {date: "Marktwert in Millionen", margin: 40} }]
+      f.series(name: "7-Tage Durchschnitt", yAxis: 0, data: @seven_day_avg, color: "#ff1313",enableMouseTracking: false)
+      f.series(:type => 'column',name: "Punkte", yAxis: 1, data: @spieltag_punkte, color: "#2eb82e")
+      f.yAxis [
+          {title: {date: "Marktwert in Millionen", margin: 40} },
+          {:title => {:text => "Punkte"}, :opposite => true}
+              ]
       f.legend(enabled: true)
       f.xAxis(categories: @date_array)
+
 
     end
 
