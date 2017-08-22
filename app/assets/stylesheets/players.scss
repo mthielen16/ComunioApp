@@ -74,6 +74,23 @@ p {
 
 /* table */
 
+td {
+  border:none;
+  padding: 0;
+
+}
+
+tr {
+  border:none;
+  padding: 0;
+
+}
+
+table {
+  border:none;
+  padding: 0;
+
+}
 
 
 #wrapper {
@@ -87,18 +104,21 @@ p {
 }
 #second {
   overflow: hidden; /* if you don't want #second to wrap below #first */
+
 }
 
-.right {
-  text-align: right;
-}
+
+
+
+
 
 /* CHARTS */
 
 
-#container {
-  min-width: 310px;
-  max-width: 800px;
-  height: 400px;
-  margin: 0 auto
+#chart-background {
+
+  background-repeat:no-repeat;
+  background-position: 40% 0;
+  background-size: 110% 110%;
+  opacity: 0.5;
 }

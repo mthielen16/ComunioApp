@@ -2,8 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfa04594-0162-443c-89da-fd5b46883dee" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/1-fc-koeln-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/1. FC Köln.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/1. FSV Mainz 05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/1899 Hoffenheim.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Bayer 04 Leverkusen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Borussia Dortmund.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Borussia M'gladbach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/FC Augsburg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/FC Bayern München.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Hamburger SV.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Hannover 96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Hertha BSC.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/RB Leipzig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/SC Freiburg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/SV Werder Bremen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/VfB Stuttgart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/VfL Wolfsburg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bayer-04-leverkusen-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bayern.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bmg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/borussia-dortmund-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/borussia-moenchengladbach-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bvb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/eintracht-frankfurt-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fc-augsburg-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fc-bayern-muenchen-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fc-schalke-04-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/frankfurt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/freiburg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fsv-mainz-05-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/hamburger-sv-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/hannover-96-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/hannover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/hertha-bsc-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/hertha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/hoffe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/hsv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/leipzig.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mainz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/rb-leipzig-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sc-freiburg-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/schalke.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/stuggi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sv-werder-bremen-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/svw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tsg-1899-hoffenheim-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/vfb-stuttgart-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/vfl-wolfsburg-wappen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/wob.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/test.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/players.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/players.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/players_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/players_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/players/show.html.erb" afterPath="$PROJECT_DIR$/app/views/players/show.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -85,117 +141,139 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="players" pinned="false" current-in-tab="false">
-        <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.players">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="values" pinned="false" current-in-tab="false">
-        <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.values">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="56" lean-forward="false" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="56" />
-              <folding>
-                <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <marker date="1503328056900" expanded="false" signature="2179:2189" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" column="71" lean-forward="false" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
-              <folding>
-                <marker date="1503328056899" expanded="true" signature="428:542" ph="..." />
-                <marker date="1503328056899" expanded="true" signature="502:532" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="players.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/players.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="706">
-              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="saisoninfos" pinned="false" current-in-tab="false">
-        <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.saisoninfos">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrape.rake" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/tasks/scrape.rake">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="players_controller.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-722">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <marker date="1503328056894" expanded="true" signature="459:574" ph="do ... end" />
-                <marker date="1503328056894" expanded="true" signature="595:726" ph="do ... end" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.71428573">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="players" pinned="false" current-in-tab="false">
+            <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.players">
+              <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+                <state>
+                  <filtering enabled="true" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="values" pinned="false" current-in-tab="false">
+            <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.values">
+              <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+                <state>
+                  <filtering enabled="true" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="9" column="91" lean-forward="false" selection-start-line="9" selection-start-column="91" selection-end-line="9" selection-end-column="91" />
+                  <folding>
+                    <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="easy-autocomplete.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/easy-autocomplete.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-2606">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="40" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="show.json.jbuilder" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/players/show.json.jbuilder">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="easy-autocomplete.themes.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/easy-autocomplete.themes.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-1734">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="players.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/players.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-136">
+                  <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_navbar.html.erb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="425">
+                  <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="players_controller.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="587">
+                  <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="_navbar.html.erb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="application.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -246,7 +324,6 @@
       <list>
         <option value="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/directors.coffee" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" />
         <option value="$PROJECT_DIR$/db/schema_cache.yml" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/app/models/movie.rb" />
@@ -287,11 +364,12 @@
         <option value="$PROJECT_DIR$/db/migrate/20170820231001_create_saisoninfos.rb" />
         <option value="$PROJECT_DIR$/lib/tasks/scrape.rake" />
         <option value="$PROJECT_DIR$/db/migrate/20170820241001_create_saisoninfos.rb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/players.scss" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/players/show.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/players_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/players/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/players.scss" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" />
       </list>
     </option>
   </component>
@@ -386,6 +464,13 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
@@ -967,11 +1052,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503333166045</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="punkte col plot und 7 day average plot bugfixes">
+      <created>1503333875789</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1503333875789</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121088000" />
+    <option name="totallyTimeSpent" value="131914000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1066,18 +1158,8 @@
     <entry file="das://table:/d7766f20/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.importers" />
     <entry file="das://table:/d7766f20/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.importers" />
     <entry file="das://table:/d7766f20/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.importers" />
-    <entry file="das://table:/d7766f20/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.importers" />
-    <entry file="das://table:/d7766f20/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.importers" />
-    <entry file="das://table:/d7766f20/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.importers" />
     <entry file="das://table:/d7766f20/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.players" />
     <entry file="file://$PROJECT_DIR$/db/migrate/20170730167305_create_players.rb" />
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://table:/e88a291c/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.data" />
     <entry file="file://$PROJECT_DIR$/db/migrate/20170802152543_create_infos.rb" />
     <entry file="file://$PROJECT_DIR$/app/models/info.rb" />
@@ -1240,38 +1322,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/players.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="71" lean-forward="false" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
-          <folding>
-            <marker date="1503328056899" expanded="true" signature="428:542" ph="..." />
-            <marker date="1503328056899" expanded="true" signature="502:532" ph="..." />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1309,6 +1365,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/players/show.json.jbuilder">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.players">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -1316,22 +1380,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="56" lean-forward="false" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="56" />
+        <state relative-caret-position="102">
+          <caret line="9" column="91" lean-forward="false" selection-start-line="9" selection-start-column="91" selection-end-line="9" selection-end-column="91" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1503328056900" expanded="false" signature="2179:2189" ph="..." />
+            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-722">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/easy-autocomplete.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2606">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/players.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/easy-autocomplete.themes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1734">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>

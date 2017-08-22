@@ -15,6 +15,7 @@ class PlayersController < ApplicationController
 
 
 
+
     @date_array= []
     @spieler_value = []
     @value.to_a.each do |t|
@@ -46,19 +47,10 @@ class PlayersController < ApplicationController
     @chart_globals = LazyHighCharts::HighChartGlobals.new do |f|
         f.global(useUTC: false)
         f.chart(
-            backgroundColor: {
-                linearGradient: [0, 0, 500, 500],
-                stops: [
-                    [0, "rgb(255, 255, 255)"],
-                    [1, "rgb(240, 240, 255)"]
-                ]
-            },
-
-            plotBackgroundColor: "rgba(255, 255, 255, .9)",
+            backgroundColor:"rgba(255, 255, 255, 0.65)",
             plotShadow: true,
             plotBorderWidth: 1)
         f.lang(thousandsSep: ",")
-        f.chart({defaultSeriesType: "area"})
         f.plotOptions(line: {marker: {enabled: false}})
       end
 
@@ -69,8 +61,8 @@ class PlayersController < ApplicationController
       f.series(name: "7-Tage Durchschnitt", yAxis: 0, data: @seven_day_avg, color: "#ff1313",enableMouseTracking: false)
       f.series(:type => 'column',name: "Punkte", yAxis: 1, data: @spieltag_punkte, color: "#2eb82e")
       f.yAxis [
-          {title: {date: "Marktwert in Millionen", margin: 40} },
-          {:title => {:text => "Punkte"}, :opposite => true}
+          {:title => {:text => "Marktwert in Millionen", margin: 40},gridLineWidth: 0, minorGridLineWidth: 0, },
+          {:title => {:text => "Punkte", margin: 40}, :opposite => true,gridLineWidth: 0, minorGridLineWidth: 0,}
               ]
       f.legend(enabled: true)
       f.xAxis(categories: @date_array,minTickInterval: 7)
@@ -78,7 +70,7 @@ class PlayersController < ApplicationController
 
 
 
-
+    @verein = @player.verein
   end
 
 
@@ -87,6 +79,7 @@ class PlayersController < ApplicationController
     # Use callbacks to share common setup or constraints between actions.
     def set_player
       @player = Player.find(params[:id])
+      @verein = @player.verein+'.png'
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
