@@ -26,7 +26,7 @@ namespace :scrape do
 
     keys = ["id","cid","tore","unknown","gelb","gelbrot","rot","punkte","note","min_ein","min_aus","einsätze","heimaus","date"]
 
-    y=0
+
     matchday_number_array.each do |matchday|
       x= matchday
       nokogiri_storage = Nokogiri::HTML(open("https://www.comstats.de/matchdetails.php?mid=#{x}", :ssl_verify_mode => OpenSSL::SSL::VERIFY_NONE)).text
@@ -34,15 +34,13 @@ namespace :scrape do
 
 
       json["h"].each do |row|
-        y+=1
-        Saisoninfo.create(Hash[keys.zip [y,row["i"],row["t"],row["e"],row["g"],
+          Saisoninfo.create(Hash[keys.zip [Saisoninfo.maximum(:id)+1,row["i"],row["t"],row["e"],row["g"],
                                          row["gr"],row["r"],row["pk"],row["no"],
                                          row["ew"],row["aw"],row["a"],"h",(Date.today).to_s]])
       end
 
       json["a"].each do |row|
-        y+=1
-        Saisoninfo.create(Hash[keys.zip [y,row["i"],row["t"],row["e"],row["g"],
+          Saisoninfo.create(Hash[keys.zip [Saisoninfo.maximum(:id)+1,row["i"],row["t"],row["e"],row["g"],
                                          row["gr"],row["r"],row["pk"],row["no"],
                                          row["ew"],row["aw"],row["a"],"a",(Date.today).to_s]])
       end

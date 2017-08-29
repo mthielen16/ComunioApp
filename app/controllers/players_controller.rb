@@ -33,16 +33,29 @@ class PlayersController < ApplicationController
 
 
 
-    @spieltag_punkte =[]
+    @spieltag_punkte_plus =[]
+    @spieltag_punkte_minus =[]
+
+
 
     if @saisoninfo.sum(:einsätze) >= 1
-      @spieltag_punkte.insert(@date_array.index(@saisoninfo.pluck(:date,:punkte)[0][0]),
-                              @saisoninfo.pluck(:date,:punkte)[0][1])
+      @saisoninfo.distinct.pluck(:date).each do |date|
+        if @saisoninfo.where(date: date).pluck(:punkte)[0] >= 0
+          @spieltag_punkte_plus.insert(@date_array.index(date) ,@saisoninfo.where(date: date).pluck(:punkte)[0])
+        else
+          @spieltag_punkte_minus.insert(@date_array.index(date) ,(@saisoninfo.where(date: date).pluck(:punkte)[0]*-1))
+        end
+      end
     else
-      @spieltag_punkte  =[]
+      @spieltag_punkte_plus  =[]
+      @spieltag_punkte_minus  =[]
     end
 
-
+    if (@spieltag_punkte_plus+@spieltag_punkte_minus).map(&:to_i).max <= 6
+      xaxismax = 10
+    else
+      xaxismax = (@spieltag_punkte_plus+@spieltag_punkte_minus).map(&:to_i).max+5
+    end
 
     @chart_globals = LazyHighCharts::HighChartGlobals.new do |f|
         f.global(useUTC: false)
@@ -58,11 +71,14 @@ class PlayersController < ApplicationController
       f.chart({defaultSeriesType: "line"})
       f.title(text: "Marktwert und Punkte")
       f.series(name: "Marktwert", yAxis: 0, data: @spieler_value, color: "#666699")
-      f.series(name: "7-Tage Durchschnitt", yAxis: 0, data: @seven_day_avg, color: "#ff1313",enableMouseTracking: false)
-      f.series(:type => 'column',name: "Punkte", yAxis: 1, data: @spieltag_punkte, color: "#2eb82e")
+      f.series(name: "7-Tage Durchschnitt", yAxis: 0, data: @seven_day_avg, color: "#D2691E",enableMouseTracking: false)
+      f.series(:type => 'column',name: "Plus-Punkte", yAxis: 1, data: @spieltag_punkte_plus, color: "#2eb82e")
+      f.series(:type => 'column',name: "Minus-Punkte", yAxis: 1, data: @spieltag_punkte_minus, color: "#ff1313")
+
       f.yAxis [
           {:title => {:text => "Marktwert in Millionen", margin: 40},gridLineWidth: 0, minorGridLineWidth: 0, },
-          {:title => {:text => "Punkte", margin: 40}, :opposite => true,gridLineWidth: 0, minorGridLineWidth: 0,}
+          {:title => {:text => "Punkte", margin: 40}, :opposite => true,gridLineWidth: 0, minorGridLineWidth: 0,
+           allowDecimals: false,max: xaxismax}
               ]
       f.legend(enabled: true)
       f.xAxis(categories: @date_array,minTickInterval: 7)

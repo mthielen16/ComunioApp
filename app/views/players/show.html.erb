@@ -37,9 +37,9 @@
       <tr>
         <td>Einsätze</td>
         <td align="right"><%= if (@player.punkte/@player.pps).nan? then '0'
-                else if (@player.punkte/@player.pps).to_i >= 34 then '34'
-                     else (@player.punkte/@player.pps).to_i end
-                end %></td>
+                              else if (@player.punkte/@player.pps).to_i >= 34 then '34'
+                                   else (@player.punkte/@player.pps).to_i end
+                              end %></td>
         <td align="right"> <%=@saisoninfo.sum(:einsätze)%></td>
       </tr>
       <tr>
@@ -67,3 +67,65 @@
 </div>
 
 
+
+<div id="wrapper">
+  <div id="first">
+    <table class="table"  align="left"  style="width:100%" >
+      <tbody id="chart-background" style='background-image:url("/images/<%=@verein%>.png")'>
+      <tr style="background-color:#c2c2d6">
+        <td >Name</td>
+        <td colspan = "2" align="right"><%= @player.name %></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td >Marktwert</td>
+        <td colspan = "2" align="right"><%= number_with_delimiter( @value.last["value"],delimiter: " ") %></td>
+      </tr>
+      <tr>
+        <td>Position</td>
+        <td colspan = "2" align="right"><%= @player.position %></td>
+      </tr>
+      <tr>
+        <td>Verein</td>
+        <td colspan = "2" align="right"><%= @player.verein %></td>
+      <tr>
+        <td></td>
+        <td align="right">16/17</td>
+        <td align="right">17/18</td>
+      </tr>
+      <tr>
+        <td>Punkte</td>
+        <td align="right"><%= @player.punkte %></td>
+        <td align="right"><%= @saisoninfo.sum(:punkte) %></td>
+      </tr>
+      <tr>
+        <td>Einsätze</td>
+        <td align="right"><%= if (@player.punkte/@player.pps).nan? then '0'
+                              else if (@player.punkte/@player.pps).to_i >= 34 then '34'
+                                   else (@player.punkte/@player.pps).to_i end
+                              end %></td>
+        <td align="right"> <%=@saisoninfo.sum(:einsätze)%></td>
+      </tr>
+      <tr>
+        <td>Punkte pro Spiel</td>
+        <td align="right"><%= if @player.pps == 0 then 'na' else @player.pps.round(2) end %></td>
+        <td align="right"><%= if @saisoninfo.sum(:einsätze) == 0 then 'na' else (@saisoninfo.sum(:punkte)/@saisoninfo.sum(:einsätze)).round(2) end %></td>
+      </tr>
+      <tr>
+        <td>PpS pro Millionen</td>
+        <td align="right"><%= if @player.pps == 0 then 'na' else (@player.pps/(@value.last["value"].to_f/1000000)).round(1)  end%></td>
+        <td align="right"><%= if @saisoninfo.sum(:einsätze) == 0 then 'na' else ((@saisoninfo.sum(:punkte)/@saisoninfo.sum(:einsätze))/(@value.last["value"].to_f/1000000)).round(1)  end%></td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+
+
+  <div id="second">
+    <table  align="right" style="width:100%">
+      <tr>
+        <td><%= high_chart("TWtotal", @spieler_mw) %></td>
+      </tr>
+    </table>
+  </div>
+</div>

@@ -19,7 +19,7 @@ document.addEventListener("turbolinks:load", function() {
                 Turbolinks.visit(url)
             }
         },
-        theme: "blue"
+        theme: "dark-glass"
     }
 
     $input.easyAutocomplete(options)
