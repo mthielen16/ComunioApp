@@ -4,7 +4,12 @@ class PlayersController < ApplicationController
   # GET /players
   # GET /players.json
   def index
+
+
+    @player = []
     @players = Player.all
+
+
   end
 
   # GET /players/1
@@ -69,15 +74,14 @@ class PlayersController < ApplicationController
 
     @spieler_mw = LazyHighCharts::HighChart.new('graph') do |f|
       f.chart({defaultSeriesType: "line"})
-      f.title(text: "Marktwert und Punkte")
       f.series(name: "Marktwert", yAxis: 0, data: @spieler_value, color: "#666699")
       f.series(name: "7-Tage Durchschnitt", yAxis: 0, data: @seven_day_avg, color: "#D2691E",enableMouseTracking: false)
       f.series(:type => 'column',name: "Plus-Punkte", yAxis: 1, data: @spieltag_punkte_plus, color: "#2eb82e")
       f.series(:type => 'column',name: "Minus-Punkte", yAxis: 1, data: @spieltag_punkte_minus, color: "#ff1313")
 
       f.yAxis [
-          {:title => {:text => "Marktwert in Millionen", margin: 40},gridLineWidth: 0, minorGridLineWidth: 0, },
-          {:title => {:text => "Punkte", margin: 40}, :opposite => true,gridLineWidth: 0, minorGridLineWidth: 0,
+          {:title => {:text => "Marktwert in Millionen"},gridLineWidth: 0, minorGridLineWidth: 0, },
+          {:title => {:text => "Punkte"}, :opposite => true,gridLineWidth: 0, minorGridLineWidth: 0,
            allowDecimals: false,max: xaxismax}
               ]
       f.legend(enabled: true)
@@ -87,6 +91,31 @@ class PlayersController < ApplicationController
 
 
     @verein = @player.verein
+
+
+
+
+
+
+
+    @tw_value=[]
+    torwartlist=Player.where(position: "Torhüter").pluck(:id)
+
+    Value.where(cid: torwartlist).group(:date).sum(:value).each do |key,value|
+      @tw_value.push(value)
+    end
+
+    @tw_marktwert_gesamt = LazyHighCharts::HighChart.new('tw_marktwert_gesamt') do |f|
+      f.chart({defaultSeriesType: "area"})
+      f.series(name: "Marktwert", yAxis: 0, data: @tw_value, color: "#666699")
+
+      f.yAxis [{:title => {:text => "Marktwert in Millionen"},gridLineWidth: 0, minorGridLineWidth: 0, }
+              ]
+      f.legend(enabled: true)
+      f.xAxis(categories: @date_array,minTickInterval: 7)
+    end
+
+
   end
 
 

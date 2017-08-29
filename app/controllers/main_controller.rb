@@ -1,6 +1,8 @@
 class MainController < ApplicationController
   def index
+
   end
+
 
   def search
     @players   = Player.ransack(name_cont: params[:q]).result(distinct: true)

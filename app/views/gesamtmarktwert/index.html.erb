@@ -1,0 +1,45 @@
+<% content_for :title, "Comtistic | Home" %>
+<%= high_chart_globals(@chart_globals) %>
+
+<div class="container-fluid">
+  <div class="card m-1">
+    <h5  class="card-header">
+      Gesamtmarktwert Comunio
+    </h5>
+    <%= high_chart("ges_marktwert_gesamt", @ges_marktwert_gesamt) %>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="card m-1">
+        <h5  class="card-header">
+          Gesamtmarktwert Torwart
+        </h5>
+        <%= high_chart("tw_marktwert_gesamt", @tw_marktwert_gesamt) %>
+      </div>
+      <div class="card m-1">
+        <h5  class="card-header">
+          Gesamtmarktwert Abwehr
+        </h5>
+        <%= high_chart("aw_marktwert_gesamt", @aw_marktwert_gesamt) %>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="card m-1">
+        <h5  class="card-header">
+          Gesamtmarktwert Mittelfeld
+        </h5>
+        <%= high_chart("mf_marktwert_gesamt", @mf_marktwert_gesamt) %>
+      </div>
+      <div class="card m-1">
+        <h5  class="card-header">
+          Gesamtmarktwert Stürmer
+        </h5>
+        <%= high_chart("st_marktwert_gesamt", @st_marktwert_gesamt) %>
+      </div>
+    </div>
+  </div>
+</div>
+
