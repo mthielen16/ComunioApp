@@ -1,50 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfa04594-0162-443c-89da-fd5b46883dee" name="Default" comment="updated importer,graph, scss">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata.values[Konflikt].at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata[Konflikt]" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata.keystream[Konflikt].len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata.values (1).at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata[Konflikt]" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata[Konflikt].keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata[Konflikt].len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata_i[Konflikt]" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata_i[Konflikt].len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/backups/20170908001124_local_mt.dump" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/backups/20170908001526_remote_mt.dump" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/backups/20170915115107_remote_mt.dump" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/backups/20170920231705_remote_mt.dump" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/backups/20171228171403_remote_mt.dump" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/storage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/gesamtmarktwert.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/gesamtmarktwert.coffee" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/db/migrate/20170820241001_create_saisoninfos.rb" afterPath="$PROJECT_DIR$/db/migrate/201708255241601_create_saisoninfos.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata.values.at" afterPath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+    <list default="true" id="2b91e53e-fcfb-4687-9590-770c11d1b3aa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/players_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/players_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/gesamtmarktwert/index.html.erb" afterPath="$PROJECT_DIR$/app/views/gesamtmarktwert/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/players/show.html.erb" afterPath="$PROJECT_DIR$/app/views/players/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/tasks/data_pull.rake" afterPath="$PROJECT_DIR$/lib/tasks/data_pull.rake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/tasks/scrape.rake" afterPath="$PROJECT_DIR$/lib/tasks/scrape.rake" />
     </list>
+    <ignored path="C:\Users\mthie\Google Drive\Virtualbox\dummyapp\.idea\shelf/" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -66,8 +27,8 @@
     <SUITE FILE_PATH="coverage/ComunioApp@db_schema_dump__ComunioApp.coverage" NAME="db:schema:dump: ComunioApp Coverage Results" MODIFIED="1501770361504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ComunioApp" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@Development__gorails_episode_192_master.coverage" NAME="Development: gorails-episode-192-master Coverage Results" MODIFIED="1501427485576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_drop__gorails_episode_192_master.coverage" NAME="db:drop: gorails-episode-192-master Coverage Results" MODIFIED="1501426041925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
-    <SUITE FILE_PATH="coverage/ComunioApp@Rails_console__ComunioApp.coverage" NAME="Rails console: ComunioApp Coverage Results" MODIFIED="1503996123934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ComunioApp" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_migrate.coverage" NAME="db:migrate Coverage Results" MODIFIED="1501426007594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
+    <SUITE FILE_PATH="coverage/ComunioApp@Rails_console__ComunioApp.coverage" NAME="Rails console: ComunioApp Coverage Results" MODIFIED="1503996123934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ComunioApp" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_migrate__1_.coverage" NAME="db:migrate (1) Coverage Results" MODIFIED="1501415870076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_migrate__gorails_episode_192_master.coverage" NAME="db:migrate: gorails-episode-192-master Coverage Results" MODIFIED="1501426147527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
     <SUITE FILE_PATH="coverage/ComunioApp@IRB_console__ComunioApp.coverage" NAME="IRB console: ComunioApp Coverage Results" MODIFIED="1501445389398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ComunioApp" />
@@ -75,286 +36,162 @@
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_seed__gorails_episode_192_master.coverage" NAME="db:seed: gorails-episode-192-master Coverage Results" MODIFIED="1501415901326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_schema_cache_dump__gorails_episode_192_master.coverage" NAME="db:schema:cache:dump: gorails-episode-192-master Coverage Results" MODIFIED="1501428537513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand>
-      <path>
-        <item name="" type="eadb38e5:DatabaseStructure$Root" />
-        <item name="mt@localhost" type="e3449647:DbNodeDescriptor" />
-      </path>
-      <path>
-        <item name="" type="eadb38e5:DatabaseStructure$Root" />
-        <item name="mt@localhost" type="e3449647:DbNodeDescriptor" />
-        <item name="mt" type="e3449647:DbNodeDescriptor" />
-      </path>
-      <path>
-        <item name="" type="eadb38e5:DatabaseStructure$Root" />
-        <item name="mt@localhost" type="e3449647:DbNodeDescriptor" />
-        <item name="mt" type="e3449647:DbNodeDescriptor" />
-        <item name="public" type="e3449647:DbNodeDescriptor" />
-      </path>
-      <path>
-        <item name="" type="eadb38e5:DatabaseStructure$Root" />
-        <item name="mt@localhost" type="e3449647:DbNodeDescriptor" />
-        <item name="mt" type="e3449647:DbNodeDescriptor" />
-        <item name="public" type="e3449647:DbNodeDescriptor" />
-        <item name="" type="fce03ad6:DatabaseStructure$GroupNode" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="players_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="saisoninfos" pinned="false" current-in-tab="false">
-        <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" text="min_ein&gt;80">
-                <filter text="min_ein&gt;80" />
-                <filter text="min_ein&gt;75" />
-                <filter text="min_ein&gt;71" />
-                <filter text="min_ein&gt;70" />
-                <filter text="min_ein&gt;60" />
-                <filter text="cid=31079" />
-                <filter text="cid=31362" />
-              </filtering>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/gesamtmarktwert/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="80" column="14" lean-forward="true" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/players/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.json.jbuilder" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/players/index.json.jbuilder">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.json.jbuilder" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/players/show.json.jbuilder">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_player.json.jbuilder" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/players/_player.json.jbuilder">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="201708255241601_create_saisoninfos.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/201708255241601_create_saisoninfos.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrape.rake" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/tasks/scrape.rake">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="89" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>jbu</find>
-      <find>m</find>
-      <find>mov</find>
-      <find>movie</find>
-      <find>movi</find>
-      <find>d</find>
-      <find>di</find>
-      <find>dir</find>
-      <find>dire</find>
-      <find>direc</find>
-      <find>direct</find>
-      <find>directo</find>
-      <find>director</find>
-      <find>elem</find>
-      <find>max</find>
-      <find>twhash\=JSON\.parse HTTParty\.get\(\'http\:\/\/com\-analytics\.de\/ajax\/topplayers\/keeper\?_\=1496939417796\'\)\.response\.body\n    abwarray\=twhash\[\&quot;data\&quot;\]\n    abwdata\=\[\]\n    abwarray\.each \{ \|x\| abwdata\.push\(x\.flatten\)</find>
-      <find>abw</find>
-      <find>@json[&quot;h&quot;]</find>
-      <find>@json[&quot;h&quot;][0]</find>
-      <find>navbar</find>
-      <find>relative</find>
-      <find>position</find>
-      <find>fixed</find>
-      <find>einsätze</find>
-      <find>date</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>row[x]</replace>
-      <replace>row</replace>
-      <replace>spieltag</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\mthie\Google Drive\Virtualbox\gorails-episode-192-master</dir>
-      <dir>C:\Users\mthie\Google Drive\Virtualbox\dummyapp</dir>
-    </dirStrings>
-  </component>
-  <component name="GeneratorOptions">
-    <option name="SKIP" value="false" />
-    <option name="VCS_SHOW_CONFIRMATION" value="true" />
-    <option name="ENVIRONMENT" value="development" />
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                  <folding>
+                    <marker date="1514487720465" expanded="true" signature="2574:2710" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="2807:3953" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="2843:2879" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="2912:3940" ph="..." />
+                    <marker date="1514487720465" expanded="false" signature="2956:2966" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="2967:3925" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="2988:3906" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="3006:3113" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="3130:3488" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="3195:3470" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="3196:3466" ph="&lt;%=...%&gt;" />
+                    <marker date="1514487720465" expanded="true" signature="3200:3463" ph="if ... end" />
+                    <marker date="1514487720465" expanded="true" signature="3287:3423" ph="if ... end" />
+                    <marker date="1514487720465" expanded="true" signature="3505:3667" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="3583:3642" ph="if ... end" />
+                    <marker date="1514487720465" expanded="true" signature="3684:3885" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="3763:3861" ph="if ... end" />
+                    <marker date="1514487720465" expanded="true" signature="3991:4376" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="4022:4180" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="4060:4113" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="4209:4365" ph="..." />
+                    <marker date="1514487720465" expanded="true" signature="4243:4294" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="players_controller.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="561">
+                  <caret line="92" column="19" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.json.jbuilder" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/players/index.json.jbuilder">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_form.html.erb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/players/_form.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="players.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/players.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2210">
+                  <caret line="197" column="1" lean-forward="false" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#1030#1141#0" expanded="false" />
+                    <element signature="e#1286#2517#0" expanded="false" />
+                    <element signature="e#2545#2794#0" expanded="false" />
+                    <element signature="e#2851#3065#0" expanded="false" />
+                    <element signature="e#3268#3339#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main_controller.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/controllers/main_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/gesamtmarktwert/index.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="gesamtmarktwert_controller.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/controllers/gesamtmarktwert_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1700">
+                  <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_navbar.html.erb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/db/migrate/20170730165105_create_players.rb" />
-        <option value="$PROJECT_DIR$/app/views/main/search.html.erb" />
-        <option value="$PROJECT_DIR$/db/seeds.rb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/jquery.easy-autocomplete.js" />
-        <option value="$PROJECT_DIR$/app/views/main/search.json.jbuilder" />
-        <option value="$PROJECT_DIR$/log/development.log" />
-        <option value="$PROJECT_DIR$/db/migrate/20170730165305_create_players.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20170730166305_create_players.rb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.scss" />
-        <option value="$PROJECT_DIR$/db/migrate/20170730167305_create_players.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20170731130447_create_importers.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20170731192747_create_importers.rb" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0dc87761-7c0b-44bf-8f83-8f19c85ec262/console.sql" />
-        <option value="$PROJECT_DIR$/db/migrate/20170802152520_create_values.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20170802152543_create_infos.rb" />
-        <option value="$PROJECT_DIR$/app/models/info.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20170803142716_create_players.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20170802162520_create_values.rb" />
-        <option value="$PROJECT_DIR$/config/environments/development.rb" />
-        <option value="$PROJECT_DIR$/lib/tasks/data_backup.rake" />
-        <option value="$PROJECT_DIR$/lib/tasks/data.rake" />
-        <option value="$PROJECT_DIR$/config/environments/production.rb" />
-        <option value="$PROJECT_DIR$/db/schema.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20170820215046_create_saison_infos.rb" />
-        <option value="$PROJECT_DIR$/app/models/saison_info.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20170820221001_create_saisoninfos.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20170820231001_create_saisoninfos.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/easy-autocomplete.themes.css" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/search.js" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/easy-autocomplete.css" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/players.scss" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/players/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/players/index.json.jbuilder" />
-        <option value="$PROJECT_DIR$/app/controllers/gesamtmarktwert_controller.rb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/main_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/main/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/gesamtmarktwert.js" />
-        <option value="$PROJECT_DIR$/lib/tasks/data_pull.rake" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
-        <option value="$PROJECT_DIR$/db/migrate/20170820241001_create_saisoninfos.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20170825241001_create_saisoninfos.rb" />
-        <option value="$PROJECT_DIR$/lib/tasks/scrape.rake" />
-        <option value="$PROJECT_DIR$/app/views/gesamtmarktwert/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/players_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/players/show.html.erb" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsFlowSettings">
-    <service-enabled>false</service-enabled>
-    <exe-path />
-    <annotation-enable>false</annotation-enable>
-    <other-services-enabled>false</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1586" />
@@ -379,7 +216,6 @@
     </navigator>
     <panes>
       <pane id="RailsProjectView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -391,6 +227,33 @@
               <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
@@ -410,6 +273,13 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="gesamtmarktwert" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
@@ -438,45 +308,42 @@
             <path>
               <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-              <item name="migrate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="RakeTaksPopup.undocumentedIncluded" value="false" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
-    <property name="GO_FMT" value="false" />
-    <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mthie\Google Drive\Virtualbox\dummyapp\app\views\gesamtmarktwert" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\mthie\Google Drive\Virtualbox\dummyapp\app\views\main" />
-      <recent name="C:\Users\mthie\Google Drive\Virtualbox\ComunioApp\lib\tasks" />
-      <recent name="C:\Users\mthie\Google Drive\Virtualbox\gorails-episode-192-master\app\controllers" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -490,595 +357,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="IRB console.Rails console: ComunioApp">
-    <configuration name="Development: gorails-episode-192-master" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="gorails-episode-192-master" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3005" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-    </configuration>
-    <configuration name="IRB console: ComunioApp" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
-      <module name="ComunioApp" />
-      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$APPLICATION_HOME_DIR$/rb/testing/runner/irb.rb" />
-      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--prompt simple" />
-      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
-    </configuration>
-    <configuration name="Production: gorails-episode-192-master" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="gorails-episode-192-master" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-    </configuration>
-    <configuration name="Rails console: ComunioApp" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
-      <module name="ComunioApp" />
-      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/bin/rails" />
-      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="console" />
-      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="true" />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
-    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="" />
-      <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <filePath value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
-      <module name="" />
-      <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="" />
-      <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <framework value="gotest" />
-      <kind value="DIRECTORY" />
-      <method />
-    </configuration>
-    <configuration default="true" type="IrbRunConfigurationType" factoryName="IRB console">
-      <module name="" />
-      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="" />
-      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
-      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="MixExUnitRunConfigurationType" factoryName="Elixir Mix ExUnit" show_console_on_std_err="false" show_console_on_std_out="false">
-      <option name="passParentEnvs" value="false" />
-      <option name="programParameters" />
-      <option name="workingDirectory" value="" />
-      <module />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
-      <module name="" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
-      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
-      <module name="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
-    <configuration name="db:migrate (1)" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="gorails-episode-192-master" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:migrate" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-    </configuration>
-    <configuration name="db:migrate" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="gorails-episode-192-master" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:migrate" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-    </configuration>
-    <configuration name="db:migrate: ComunioApp" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
-      <module name="ComunioApp" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="RAILS_ENV" value="development" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:migrate" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-    </configuration>
-    <configuration name="db:schema:cache:dump: gorails-episode-192-master" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
-      <module name="gorails-episode-192-master" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:schema:cache:dump" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-    </configuration>
-    <configuration name="db:schema:dump: ComunioApp" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
-      <module name="ComunioApp" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="RAILS_ENV" value="development" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="db:schema:dump" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-    </configuration>
-    <configuration name="spec: gorails-episode-192-master" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="gorails-episode-192-master" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-    </configuration>
-    <configuration name="test: gorails-episode-192-master" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="gorails-episode-192-master" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="RAILS_ENV" value="test" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-    </configuration>
-    <list size="11">
-      <item index="0" class="java.lang.String" itemvalue="Rake.test: gorails-episode-192-master" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.spec: gorails-episode-192-master" />
-      <item index="2" class="java.lang.String" itemvalue="Rails.Production: gorails-episode-192-master" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Development: gorails-episode-192-master" />
-      <item index="4" class="java.lang.String" itemvalue="Rake.db:migrate" />
-      <item index="5" class="java.lang.String" itemvalue="Rake.db:migrate (1)" />
-      <item index="6" class="java.lang.String" itemvalue="Rake.db:schema:cache:dump: gorails-episode-192-master" />
-      <item index="7" class="java.lang.String" itemvalue="IRB console.IRB console: ComunioApp" />
-      <item index="8" class="java.lang.String" itemvalue="Rake.db:migrate: ComunioApp" />
-      <item index="9" class="java.lang.String" itemvalue="Rake.db:schema:dump: ComunioApp" />
-      <item index="10" class="java.lang.String" itemvalue="IRB console.Rails console: ComunioApp" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="IRB console.Rails console: ComunioApp" />
-        <item index="1" class="java.lang.String" itemvalue="Rake.db:schema:dump: ComunioApp" />
-        <item index="2" class="java.lang.String" itemvalue="Rake.db:migrate: ComunioApp" />
-        <item index="3" class="java.lang.String" itemvalue="IRB console.IRB console: ComunioApp" />
-        <item index="4" class="java.lang.String" itemvalue="Rake.db:schema:cache:dump: gorails-episode-192-master" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cfa04594-0162-443c-89da-fd5b46883dee" name="Default" comment="" />
-      <created>1501375565388</created>
+      <changelist id="2b91e53e-fcfb-4687-9590-770c11d1b3aa" name="Default" comment="" />
+      <created>1514487694098</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1501375565388</updated>
-      <workItem from="1501375566765" duration="529000" />
-      <workItem from="1501415101220" duration="9690000" />
-      <workItem from="1501428093384" duration="8091000" />
-      <workItem from="1501436237164" duration="523000" />
-      <workItem from="1501437848323" duration="6990000" />
-      <workItem from="1501449240513" duration="113000" />
-      <workItem from="1501449461074" duration="603000" />
-      <workItem from="1501450183313" duration="6108000" />
-      <workItem from="1501491201648" duration="6069000" />
-      <workItem from="1501500513102" duration="13146000" />
-      <workItem from="1501523950385" duration="11000" />
-      <workItem from="1501686405114" duration="1519000" />
-      <workItem from="1501688031073" duration="373000" />
-      <workItem from="1501690845110" duration="1839000" />
-      <workItem from="1501767956967" duration="25314000" />
-      <workItem from="1501835948534" duration="216000" />
-      <workItem from="1501845888251" duration="10738000" />
-      <workItem from="1503253811436" duration="11000" />
-      <workItem from="1503253913923" duration="1785000" />
-      <workItem from="1503259474444" duration="13989000" />
-      <workItem from="1503683987402" duration="618000" />
-      <workItem from="1503994939123" duration="36443000" />
-      <workItem from="1504050204309" duration="2962000" />
-      <workItem from="1504086759834" duration="2555000" />
-      <workItem from="1504822136025" duration="1057000" />
-      <workItem from="1504887197812" duration="643000" />
-      <workItem from="1505374967667" duration="58000" />
-      <workItem from="1505467353225" duration="4063000" />
-      <workItem from="1505738016158" duration="1913000" />
-      <workItem from="1514476102718" duration="10371000" />
+      <updated>1514487694098</updated>
+      <workItem from="1514487695473" duration="76000" />
     </task>
-    <task id="LOCAL-00001" summary="initial, 1 model!">
-      <created>1501427177251</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1501427177251</updated>
-    </task>
-    <task id="LOCAL-00002" summary="init">
-      <created>1501505902141</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1501505902141</updated>
-    </task>
-    <task id="LOCAL-00003" summary="minor changes">
-      <created>1503321445005</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1503321445005</updated>
-    </task>
-    <task id="LOCAL-00004" summary="punkte col plot und 7 day average plot bugfixes">
-      <created>1503331600572</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1503331600572</updated>
-    </task>
-    <task id="LOCAL-00005" summary="punkte col plot und 7 day average plot bugfixes">
-      <created>1503333166045</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1503333166045</updated>
-    </task>
-    <task id="LOCAL-00006" summary="punkte col plot und 7 day average plot bugfixes">
-      <created>1503333875789</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1503333875789</updated>
-    </task>
-    <task id="LOCAL-00007" summary="logos">
-      <created>1503393328041</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1503393328041</updated>
-    </task>
-    <task id="LOCAL-00008" summary="updated importer,graph, scss">
-      <created>1504023422383</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1504023422383</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196009000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="0" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31556502" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20415778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5207889" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29850745" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.46596065" order="1" side_tool="false" content_ui="tabs" x="-1013" y="450" width="368" height="457" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.4792111" order="7" side_tool="false" content_ui="tabs" x="-1488" y="757" width="903" height="315" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33020833" sideWeight="0.7057569" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5250533" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21055438" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.4749467" order="7" side_tool="false" content_ui="tabs" x="229" y="364" width="903" height="315" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4968652" sideWeight="0.49092284" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4983462" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33020833" sideWeight="0.7057569" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.46596065" order="1" side_tool="false" content_ui="tabs" x="-1013" y="450" width="368" height="457" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1108,16 +426,6 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial, 1 model!" />
-    <MESSAGE value="init" />
-    <MESSAGE value="alteration show, implementation of 17/18 data" />
-    <MESSAGE value="minor changes" />
-    <MESSAGE value="punkte col plot und 7 day average plot bugfixes" />
-    <MESSAGE value="logos" />
-    <MESSAGE value="updated importer,graph, scss" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated importer,graph, scss" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="6" />
@@ -1125,138 +433,115 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/tasks/data_import.rake">
+    <entry file="das://table:/e88a291c/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.infos" />
+    <entry file="file://$PROJECT_DIR$/app/models/value.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/0dc87761-7c0b-44bf-8f83-8f19c85ec262.SCHEMA:mt.public">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
-          <filtering enabled="true" />
+          <ID>DATABASE</ID>
+          <OriginalElement>0dc87761-7c0b-44bf-8f83-8f19c85ec262.SCHEMA:mt.public</OriginalElement>
+          <nodes>
+            <node x="178.0" y="0.0">0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.ar_internal_metadata</node>
+            <node x="0.0" y="0.0">0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.players</node>
+            <node x="0.0" y="375.0">0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.schema_migrations</node>
+            <node x="5.0" y="212.0">0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.values</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.values" target="0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.players">
+              <point x="0.0" y="-59.0" />
+              <point x="0.0" y="81.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-41.0" y="-1.0" />
+          <SelectedNodes>
+            <node>0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.ar_internal_metadata</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.values">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="file://$PROJECT_DIR$/lib/tasks/data_backup.rake" />
+    <entry file="file://E:/Ruby24-x64/lib/ruby/2.4.0/json/common.rb" />
+    <entry file="file://$PROJECT_DIR$/lib/tasks/data" />
+    <entry file="das://table:/e88a291c/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.players" />
+    <entry file="das://table:/e88a291c/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.values" />
+    <entry file="file://$PROJECT_DIR$/lib/tasks/data.rake" />
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/players/_player.json.jbuilder">
+    <entry file="file://$PROJECT_DIR$/config/cable.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.saison_infos">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="ctid" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170820215046_create_saison_infos.rb" />
+    <entry file="file://$PROJECT_DIR$/app/models/saison_info.rb" />
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170803142716_create_players.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170802172520_create_values.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.values">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1264,250 +549,255 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/data_pull.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170820241001_create_saisoninfos.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/players/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/models/player.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/saisoninfo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/data_import.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="58" column="74" lean-forward="false" selection-start-line="58" selection-start-column="56" selection-end-line="58" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/application-e5fe5a8583758e7150a0bc8cc41550a25d74392db490c4c4615144272c0f0a31.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.saisoninfos">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" text="cid=31663">
+            <filter text="cid=31663" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/scrape.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/easy-autocomplete.themes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="91" column="37" lean-forward="false" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/easy-autocomplete.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery.easy-autocomplete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/players/index.json.jbuilder">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/players/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/201708255241601_create_saisoninfos.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/players/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
+    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.players">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/scrape.rake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="89" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/gesamtmarktwert/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" text="cid=31362">
-            <filter text="cid=31362" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" text="cid=31362">
-            <filter text="cid=31362" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" text="min_ein&gt;60">
-            <filter text="min_ein&gt;60" />
-            <filter text="cid=31079" />
-            <filter text="cid=31362" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" text="min_ein&gt;60">
-            <filter text="min_ein&gt;60" />
-            <filter text="cid=31079" />
-            <filter text="cid=31362" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" text="min_ein&gt;80">
-            <filter text="min_ein&gt;80" />
-            <filter text="min_ein&gt;75" />
-            <filter text="min_ein&gt;71" />
-            <filter text="min_ein&gt;70" />
-            <filter text="min_ein&gt;60" />
-            <filter text="cid=31079" />
-            <filter text="cid=31362" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="80" column="14" lean-forward="true" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1514487720465" expanded="true" signature="2574:2710" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="2807:3953" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="2843:2879" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="2912:3940" ph="..." />
+            <marker date="1514487720465" expanded="false" signature="2956:2966" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="2967:3925" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="2988:3906" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="3006:3113" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="3130:3488" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="3195:3470" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="3196:3466" ph="&lt;%=...%&gt;" />
+            <marker date="1514487720465" expanded="true" signature="3200:3463" ph="if ... end" />
+            <marker date="1514487720465" expanded="true" signature="3287:3423" ph="if ... end" />
+            <marker date="1514487720465" expanded="true" signature="3505:3667" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="3583:3642" ph="if ... end" />
+            <marker date="1514487720465" expanded="true" signature="3684:3885" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="3763:3861" ph="if ... end" />
+            <marker date="1514487720465" expanded="true" signature="3991:4376" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="4022:4180" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="4060:4113" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="4209:4365" ph="..." />
+            <marker date="1514487720465" expanded="true" signature="4243:4294" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="92" column="19" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/players.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="197" column="1" lean-forward="false" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+          <folding>
+            <element signature="e#1030#1141#0" expanded="false" />
+            <element signature="e#1286#2517#0" expanded="false" />
+            <element signature="e#2545#2794#0" expanded="false" />
+            <element signature="e#2851#3065#0" expanded="false" />
+            <element signature="e#3268#3339#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/gesamtmarktwert_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/gesamtmarktwert/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/main_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata" />
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
           <folding />
         </state>
       </provider>
