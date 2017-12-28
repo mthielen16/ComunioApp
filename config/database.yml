@@ -16,7 +16,7 @@ production:
   encoding: unicode
   database: mt
   pool: 5
-  username: mt
-  password: 1234
-  host: localhost
+  username: postgres
+  password: backdraft
+  host: 188.166.167.206
   port: 5432

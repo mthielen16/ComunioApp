@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170820241001) do
+ActiveRecord::Schema.define(version: 201708255241601) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -26,6 +26,7 @@ ActiveRecord::Schema.define(version: 20170820241001) do
 
   create_table "saisoninfos", id: :integer, default: nil, force: :cascade do |t|
     t.integer "cid"
+    t.integer "position"
     t.integer "tore"
     t.integer "unknown"
     t.integer "gelb"
@@ -35,7 +36,8 @@ ActiveRecord::Schema.define(version: 20170820241001) do
     t.integer "note"
     t.integer "min_ein"
     t.integer "min_aus"
-    t.integer "einsätze"
+    t.integer "einsatz"
+    t.integer "spieltag"
     t.text "heimaus"
     t.text "date"
     t.index ["id"], name: "saison_infos_id_uindex", unique: true

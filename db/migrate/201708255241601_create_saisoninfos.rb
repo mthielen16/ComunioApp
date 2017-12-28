@@ -2,6 +2,7 @@ class CreateSaisoninfos < ActiveRecord::Migration[5.1]
   def change
     create_table "saisoninfos", id: :integer, default: nil, force: :cascade do |t|
       t.integer "cid"
+      t.integer "position"
       t.integer "tore"
       t.integer "unknown"
       t.integer "gelb"
@@ -11,7 +12,8 @@ class CreateSaisoninfos < ActiveRecord::Migration[5.1]
       t.integer "note"
       t.integer "min_ein"
       t.integer "min_aus"
-      t.integer "einsätze"
+      t.integer "einsatz"
+      t.integer "spieltag"
       t.text "heimaus"
       t.text "date"
       t.index ["id"], name: "saison_infos_id_uindex", unique: true

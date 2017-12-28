@@ -26,7 +26,7 @@ namespace :data do
     cmd = nil
     with_config do |app, host, db, user, pw|
       file_name = Time.now.strftime("%Y%m%d%H%M%S") + "_remote_" + db + '.' + dump_sfx
-      cmd = "pg_dump -h #{host} -Fc -o -U #{user} #{db} > #{backup_dir}/#{file_name}"
+      cmd = "pg_dump -h 188.166.167.206 -Fc -o -U postgres mt > #{backup_dir}/#{file_name}"
           end
     puts cmd
     exec cmd

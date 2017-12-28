@@ -54,7 +54,7 @@
             </tr>
             <tr>
               <td>Einsätze</td>
-              <td align="right"> <%=@saisoninfo.sum(:einsätze)%></td>
+              <td align="right"> <%=@saisoninfo.sum(:einsatz)%></td>
             </tr>
             <tr>
               <td>Tore</td>
@@ -62,19 +62,19 @@
             </tr>
             <tr>
               <td>Punkte pro Spiel</td>
-              <td align="right"><%= if @saisoninfo.sum(:einsätze) == 0 then 'na' else (@saisoninfo.sum(:punkte).to_f/@saisoninfo.sum(:einsätze)).to_f.round(2) end %></td>
+              <td align="right"><%= if @saisoninfo.sum(:einsatz) == 0 then 'na' else (@saisoninfo.sum(:punkte).to_f/@saisoninfo.sum(:einsatz)).to_f.round(2) end %></td>
             </tr>
             <tr>
               <td>PpS pro Millionen</td>
-              <td align="right"><%= if @saisoninfo.sum(:einsätze) == 0 then 'na' else ((@saisoninfo.sum(:punkte).to_f/@saisoninfo.sum(:einsätze))/(@value.last["value"].to_f/1000000)).round(1)  end%></td>
+              <td align="right"><%= if @saisoninfo.sum(:einsatz) == 0 then 'na' else ((@saisoninfo.sum(:punkte).to_f/@saisoninfo.sum(:einsatz))/(@value.last["value"].to_f/1000000)).round(1)  end%></td>
             </tr>
             <tr>
               <td>Durchschnittsnote</td>
-              <td align="right"><%= if @saisoninfo.sum(:einsätze) == 0 then 'na' else 4-((@saisoninfo.sum(:note).to_f/@saisoninfo.sum(:einsätze))/2).to_f  end%></td>
+              <td align="right"><%= if @saisoninfo.sum(:einsatz) == 0 then 'na' else 4-((@saisoninfo.sum(:note).to_f/@saisoninfo.sum(:einsatz))/2).to_f.round(1)  end%></td>
             </tr>
             <tr>
               <td>Karten (G/GR/R)</td>
-              <td align="right"><%= if @saisoninfo.sum(:einsätze) == 0 then 'na' else "#{@saisoninfo.sum(:gelb)} / #{@saisoninfo.sum(:gelbrot)} / #{@saisoninfo.sum(:rot)} " end%></td>
+              <td align="right"><%= if @saisoninfo.sum(:einsatz) == 0 then 'na' else "#{@saisoninfo.sum(:gelb)} / #{@saisoninfo.sum(:gelbrot)} / #{@saisoninfo.sum(:rot)} " end%></td>
             </tr>
             </tbody>
           </table>

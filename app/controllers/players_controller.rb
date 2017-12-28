@@ -29,8 +29,8 @@ class PlayersController < ApplicationController
     end
 
 
-    if @value.count >= 7
-      @seven_day_avg=Indicators::Data.new(@spieler_value.compact).calc(:type=>:sma, :params=>7).output
+    if @value.count >= 14
+      @seven_day_avg=Indicators::Data.new(@spieler_value.compact).calc(:type=>:sma, :params=>14).output
       3.times {@seven_day_avg=@seven_day_avg.drop(1).push(nil)}
     else
       @seven_day_avg = []
@@ -43,24 +43,30 @@ class PlayersController < ApplicationController
 
 
 
-    if @saisoninfo.sum(:einsätze) >= 1
+    if @saisoninfo.sum(:einsatz) >= 1
       @saisoninfo.distinct.pluck(:date).each do |date|
-        if @saisoninfo.where(date: date).pluck(:punkte)[0] >= 0
+        if @saisoninfo.where(date: date).pluck(:punkte)[0] == nil
+            next
+        elsif @saisoninfo.where(date: date).pluck(:punkte)[0] >= 0
           @spieltag_punkte_plus.insert(@date_array.index(date) ,@saisoninfo.where(date: date).pluck(:punkte)[0])
         else
           @spieltag_punkte_minus.insert(@date_array.index(date) ,(@saisoninfo.where(date: date).pluck(:punkte)[0]*-1))
         end
       end
     else
-      @spieltag_punkte_plus  =[]
-      @spieltag_punkte_minus  =[]
+      @spieltag_punkte_plus =[]
+      @spieltag_punkte_minus =[]
     end
 
+   if @spieltag_punkte_plus.empty? && @spieltag_punkte_minus.empty?
+     xaxismax = 10
+   else
     if (@spieltag_punkte_plus+@spieltag_punkte_minus).map(&:to_i).max <= 6
       xaxismax = 10
     else
       xaxismax = (@spieltag_punkte_plus+@spieltag_punkte_minus).map(&:to_i).max+5
     end
+  end
 
     @chart_globals = LazyHighCharts::HighChartGlobals.new do |f|
         f.global(useUTC: false)
@@ -75,7 +81,7 @@ class PlayersController < ApplicationController
     @spieler_mw = LazyHighCharts::HighChart.new('graph') do |f|
       f.chart({defaultSeriesType: "line"})
       f.series(name: "Marktwert", yAxis: 0, data: @spieler_value, color: "#666699")
-      f.series(name: "7-Tage Durchschnitt", yAxis: 0, data: @seven_day_avg, color: "#D2691E",enableMouseTracking: false)
+      f.series(name: "14-Tage Durchschnitt", yAxis: 0, data: @seven_day_avg, color: "#D2691E",enableMouseTracking: false)
       f.series(:type => 'column',name: "Plus-Punkte", yAxis: 1, data: @spieltag_punkte_plus, color: "#2eb82e")
       f.series(:type => 'column',name: "Minus-Punkte", yAxis: 1, data: @spieltag_punkte_minus, color: "#ff1313")
 
