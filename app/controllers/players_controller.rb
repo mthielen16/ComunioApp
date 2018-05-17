@@ -48,9 +48,9 @@ class PlayersController < ApplicationController
         if @saisoninfo.where(date: date).pluck(:punkte)[0] == nil
             next
         elsif @saisoninfo.where(date: date).pluck(:punkte)[0] >= 0
-          @spieltag_punkte_plus.insert(@date_array.index(date) ,@saisoninfo.where(date: date).pluck(:punkte)[0])
+          @spieltag_punkte_plus.insert(@date_array.index(date).to_i ,@saisoninfo.where(date: date).pluck(:punkte)[0].to_i)
         else
-          @spieltag_punkte_minus.insert(@date_array.index(date) ,(@saisoninfo.where(date: date).pluck(:punkte)[0]*-1))
+          @spieltag_punkte_minus.insert(@date_array.index(date).to_i ,(@saisoninfo.where(date: date).pluck(:punkte)[0]*-1).to_i)
         end
       end
     else

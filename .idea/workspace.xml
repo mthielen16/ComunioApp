@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b91e53e-fcfb-4687-9590-770c11d1b3aa" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata.values[Konflikt].at" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata.keystream.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata.values.at" afterPath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262/_metadata_/metadata.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata.values.at" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata.values.at" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/0dc87761-7c0b-44bf-8f83-8f19c85ec262.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/players_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/players_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/tasks/importer.rake" afterPath="$PROJECT_DIR$/lib/tasks/importer.rake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/tasks/scrape.rake" afterPath="$PROJECT_DIR$/lib/tasks/scrape.rake" />
     </list>
     <ignored path="C:\Users\mthie\Google Drive\Virtualbox\dummyapp\.idea\shelf/" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -27,8 +42,8 @@
     <SUITE FILE_PATH="coverage/ComunioApp@db_schema_dump__ComunioApp.coverage" NAME="db:schema:dump: ComunioApp Coverage Results" MODIFIED="1501770361504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ComunioApp" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@Development__gorails_episode_192_master.coverage" NAME="Development: gorails-episode-192-master Coverage Results" MODIFIED="1501427485576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_drop__gorails_episode_192_master.coverage" NAME="db:drop: gorails-episode-192-master Coverage Results" MODIFIED="1501426041925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
-    <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_migrate.coverage" NAME="db:migrate Coverage Results" MODIFIED="1501426007594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
     <SUITE FILE_PATH="coverage/ComunioApp@Rails_console__ComunioApp.coverage" NAME="Rails console: ComunioApp Coverage Results" MODIFIED="1503996123934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ComunioApp" />
+    <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_migrate.coverage" NAME="db:migrate Coverage Results" MODIFIED="1501426007594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_migrate__1_.coverage" NAME="db:migrate (1) Coverage Results" MODIFIED="1501415870076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_migrate__gorails_episode_192_master.coverage" NAME="db:migrate: gorails-episode-192-master Coverage Results" MODIFIED="1501426147527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
     <SUITE FILE_PATH="coverage/ComunioApp@IRB_console__ComunioApp.coverage" NAME="IRB console: ComunioApp Coverage Results" MODIFIED="1501445389398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ComunioApp" />
@@ -36,146 +51,148 @@
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_seed__gorails_episode_192_master.coverage" NAME="db:seed: gorails-episode-192-master Coverage Results" MODIFIED="1501415901326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
     <SUITE FILE_PATH="coverage/gorails_episode_192_master@db_schema_cache_dump__gorails_episode_192_master.coverage" NAME="db:schema:cache:dump: gorails-episode-192-master Coverage Results" MODIFIED="1501428537513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="gorails-episode-192-master" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="markus" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="markus" type="e3449647:DbNodeDescriptor" />
+        <item name="mt" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="markus" type="e3449647:DbNodeDescriptor" />
+        <item name="mt" type="e3449647:DbNodeDescriptor" />
+        <item name="public" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="markus" type="e3449647:DbNodeDescriptor" />
+        <item name="mt" type="e3449647:DbNodeDescriptor" />
+        <item name="public" type="e3449647:DbNodeDescriptor" />
+        <item name="" type="fce03ad6:DatabaseStructure$GroupNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-                  <folding>
-                    <marker date="1514487720465" expanded="true" signature="2574:2710" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="2807:3953" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="2843:2879" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="2912:3940" ph="..." />
-                    <marker date="1514487720465" expanded="false" signature="2956:2966" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="2967:3925" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="2988:3906" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="3006:3113" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="3130:3488" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="3195:3470" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="3196:3466" ph="&lt;%=...%&gt;" />
-                    <marker date="1514487720465" expanded="true" signature="3200:3463" ph="if ... end" />
-                    <marker date="1514487720465" expanded="true" signature="3287:3423" ph="if ... end" />
-                    <marker date="1514487720465" expanded="true" signature="3505:3667" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="3583:3642" ph="if ... end" />
-                    <marker date="1514487720465" expanded="true" signature="3684:3885" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="3763:3861" ph="if ... end" />
-                    <marker date="1514487720465" expanded="true" signature="3991:4376" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="4022:4180" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="4060:4113" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="4209:4365" ph="..." />
-                    <marker date="1514487720465" expanded="true" signature="4243:4294" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="players_controller.rb" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="561">
-                  <caret line="92" column="19" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.json.jbuilder" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/views/players/index.json.jbuilder">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_form.html.erb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/views/players/_form.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="players.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/players.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2210">
-                  <caret line="197" column="1" lean-forward="false" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
-                  <folding>
-                    <element signature="e#1030#1141#0" expanded="false" />
-                    <element signature="e#1286#2517#0" expanded="false" />
-                    <element signature="e#2545#2794#0" expanded="false" />
-                    <element signature="e#2851#3065#0" expanded="false" />
-                    <element signature="e#3268#3339#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main_controller.rb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/controllers/main_controller.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/views/gesamtmarktwert/index.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="gesamtmarktwert_controller.rb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/controllers/gesamtmarktwert_controller.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1700">
-                  <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_navbar.html.erb" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="scrape.rake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/tasks/scrape.rake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="62" column="33" lean-forward="false" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_import.rake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/tasks/data_import.rake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="11" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_pull.rake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/tasks/data_pull.rake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="55" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20170802172520_create_values.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20170802172520_create_values.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="values" pinned="false" current-in-tab="false">
+        <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.values">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="players" pinned="false" current-in-tab="false">
+        <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.players">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="players_controller.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testdada" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testdada">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="547">
+              <caret line="35" column="122" lean-forward="false" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="122" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saisoninfos" pinned="false" current-in-tab="false">
+        <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.saisoninfos">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" text="cid=32719">
+                <filter text="cid=32719" />
+                <filter text="cid=31663" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>32719</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -184,6 +201,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/players.scss" />
+        <option value="$PROJECT_DIR$/config/environments/development.rb" />
+        <option value="$PROJECT_DIR$/lib/tasks/importer.rake" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/lib/tasks/scrape.rake" />
+        <option value="$PROJECT_DIR$/testdada" />
+        <option value="$PROJECT_DIR$/app/controllers/players_controller.rb" />
       </list>
     </option>
   </component>
@@ -194,10 +218,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1586" />
-    <option name="y" value="140" />
-    <option name="width" value="1400" />
-    <option name="height" value="788" />
+    <option name="x" value="-1755" />
+    <option name="y" value="311" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -215,7 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,68 +256,7 @@
               <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="gesamtmarktwert" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="players" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
@@ -308,6 +271,18 @@
             <path>
               <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="backups" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="migrate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -315,6 +290,12 @@
               <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dummyapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ComunioApp" type="b2602c69:ProjectViewProjectNode" />
@@ -338,12 +319,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -368,35 +350,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514487694098</updated>
-      <workItem from="1514487695473" duration="76000" />
+      <workItem from="1514487695473" duration="1257000" />
+      <workItem from="1514489719049" duration="754000" />
+      <workItem from="1517406217036" duration="1004000" />
+      <workItem from="1526496290479" duration="1435000" />
+      <workItem from="1526565319088" duration="8283000" />
     </task>
+    <task id="LOCAL-00001" summary="merged after update backend">
+      <created>1514487786999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1514487786999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243000" />
+    <option name="totallyTimeSpent" value="12900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="0" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20415778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15298508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5250533" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21055438" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.4749467" order="7" side_tool="false" content_ui="tabs" x="229" y="364" width="903" height="315" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23020834" sideWeight="0.5346482" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16151386" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23020834" sideWeight="0.46535182" order="7" side_tool="false" content_ui="tabs" x="229" y="364" width="903" height="315" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.7030917" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4983462" sideWeight="0.49394855" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33020833" sideWeight="0.7057569" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.46596065" order="1" side_tool="false" content_ui="tabs" x="-1013" y="450" width="368" height="457" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -426,6 +420,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="merged after update backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="merged after update backend" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="6" />
@@ -433,64 +431,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://table:/e88a291c/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.infos" />
-    <entry file="file://$PROJECT_DIR$/app/models/value.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/0dc87761-7c0b-44bf-8f83-8f19c85ec262.SCHEMA:mt.public">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>0dc87761-7c0b-44bf-8f83-8f19c85ec262.SCHEMA:mt.public</OriginalElement>
-          <nodes>
-            <node x="178.0" y="0.0">0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.ar_internal_metadata</node>
-            <node x="0.0" y="0.0">0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.players</node>
-            <node x="0.0" y="375.0">0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.schema_migrations</node>
-            <node x="5.0" y="212.0">0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.values</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.values" target="0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.players">
-              <point x="0.0" y="-59.0" />
-              <point x="0.0" y="81.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-41.0" y="-1.0" />
-          <SelectedNodes>
-            <node>0dc87761-7c0b-44bf-8f83-8f19c85ec262.TABLE:mt.public.ar_internal_metadata</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Columns</Category>
-            <Category>Key columns</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/data_backup.rake" />
     <entry file="file://E:/Ruby24-x64/lib/ruby/2.4.0/json/common.rb" />
     <entry file="file://$PROJECT_DIR$/lib/tasks/data" />
     <entry file="das://table:/e88a291c/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.players" />
     <entry file="das://table:/e88a291c/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.values" />
     <entry file="file://$PROJECT_DIR$/lib/tasks/data.rake" />
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/cable.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -498,16 +443,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.saison_infos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.saison_infos" />
     <entry file="file://$PROJECT_DIR$/db/migrate/20170820215046_create_saison_infos.rb" />
     <entry file="file://$PROJECT_DIR$/app/models/saison_info.rb" />
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
@@ -517,31 +453,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20170803142716_create_players.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20170802172520_create_values.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.values">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -559,28 +474,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/data_pull.rake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20170820241001_create_saisoninfos.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170820241001_create_saisoninfos.rb" />
     <entry file="file://$PROJECT_DIR$/app/models/player.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -595,42 +489,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/data_import.rake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="58" column="74" lean-forward="false" selection-start-line="58" selection-start-column="56" selection-end-line="58" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/application-e5fe5a8583758e7150a0bc8cc41550a25d74392db490c4c4615144272c0f0a31.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.saisoninfos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" text="cid=31663">
-            <filter text="cid=31663" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/tasks/scrape.rake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,19 +524,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/players/index.json.jbuilder">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,71 +545,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.players">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <marker date="1514487720465" expanded="true" signature="2574:2710" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="2807:3953" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="2843:2879" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="2912:3940" ph="..." />
-            <marker date="1514487720465" expanded="false" signature="2956:2966" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="2967:3925" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="2988:3906" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="3006:3113" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="3130:3488" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="3195:3470" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="3196:3466" ph="&lt;%=...%&gt;" />
-            <marker date="1514487720465" expanded="true" signature="3200:3463" ph="if ... end" />
-            <marker date="1514487720465" expanded="true" signature="3287:3423" ph="if ... end" />
-            <marker date="1514487720465" expanded="true" signature="3505:3667" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="3583:3642" ph="if ... end" />
-            <marker date="1514487720465" expanded="true" signature="3684:3885" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="3763:3861" ph="if ... end" />
-            <marker date="1514487720465" expanded="true" signature="3991:4376" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="4022:4180" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="4060:4113" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="4209:4365" ph="..." />
-            <marker date="1514487720465" expanded="true" signature="4243:4294" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="92" column="19" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/players.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="197" column="1" lean-forward="false" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
-          <folding>
-            <element signature="e#1030#1141#0" expanded="false" />
-            <element signature="e#1286#2517#0" expanded="false" />
-            <element signature="e#2545#2794#0" expanded="false" />
-            <element signature="e#2851#3065#0" expanded="false" />
-            <element signature="e#3268#3339#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/gesamtmarktwert_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1700">
           <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -789,15 +577,169 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/dataSources/e47faebd-ee47-4d4e-bf94-751b23def3ec/_metadata_/metadata" />
+    <entry file="file://$PROJECT_DIR$/app/views/players/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/players.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_navbar.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="27" lean-forward="false" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/importer.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/244e84b4/e47faebd-ee47-4d4e-bf94-751b23def3ec/mt.public.saisoninfos">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170803142716_create_players.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/201708255241631_create_saisoninfos.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170802172520_create_values.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/scrape.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="62" column="33" lean-forward="false" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/data_import.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="11" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/tasks/data_pull.rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="55" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.values">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.players">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/244e84b4/0dc87761-7c0b-44bf-8f83-8f19c85ec262/mt.public.saisoninfos">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" text="cid=32719">
+            <filter text="cid=32719" />
+            <filter text="cid=31663" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdada">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="35" column="122" lean-forward="false" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/players_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
           <folding />
         </state>
       </provider>

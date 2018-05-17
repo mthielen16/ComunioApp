@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="mt@188.166.167.206" uuid="0dc87761-7c0b-44bf-8f83-8f19c85ec262">
+    <data-source source="LOCAL" name="markus" uuid="0dc87761-7c0b-44bf-8f83-8f19c85ec262">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://188.166.167.206:5432/mt</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="mt@localhost" uuid="e47faebd-ee47-4d4e-bf94-751b23def3ec">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5554/mt</jdbc-url>
-      <driver-properties>
-        <property name="ApplicationName" value="DataGrip" />
-      </driver-properties>
     </data-source>
   </component>
 </project>
